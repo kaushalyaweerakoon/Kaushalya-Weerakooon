@@ -1,5 +1,5 @@
 # Kaushalya-Weerakooon
-<h1 align="center">Hi 👋, I'm Kaushalya Weerakoon</h1>
+<h1 align="center">Hi 👋, I'm Kaushalya Weerakoon.</h1>
 <h3 align="center">Undergraduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaushalyaweerakoon&label=Profile%20views&color=0e75b6&style=flat" alt="kaushalyaweerakoon" /> </p>
